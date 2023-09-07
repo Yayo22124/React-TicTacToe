@@ -1,4 +1,8 @@
-# React + Vite
+# Gato / Tic-Tac-Toe Game
+
+Este repositorio es el tradicional juego conocido como Gato o Tic Tac Toe, creado usando React para aprender sobre el mismo  y el uso de sus hooks como **useState**.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
