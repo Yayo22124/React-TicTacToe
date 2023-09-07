@@ -1,6 +1,6 @@
 # Gato / Tic-Tac-Toe Game
 
-<p align="center"><img width="460" height="300" src="./public/game.png" alt="Gato Image"></p>
+<p align="center"><img width="460"  src="./public/game.png" alt="Gato Image"></p>
 
 Este repositorio es el tradicional juego conocido como Gato o Tic Tac Toe, creado usando React para aprender sobre el mismo  y el uso de sus hooks como **useState**.
 
